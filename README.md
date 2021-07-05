@@ -32,8 +32,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Wanted to add a open source option for getting S-Video / Composite out of a MiSTer and add some flexiblity to tune the NTSC crystal through a trim capacitor.
 
 ### Getting Started
+You can use either power from the 5V VGA port (Through the IO Board dip switch) or directly through USB. Make sure you only use one of those options.
+
+Also I've added a trim capacitor to tune the NTSC crystal if required. (I've noticed some cores tend to have some additional flicker that can be tuned to improve the image through a trim capacitor.
 
 ### Build Requirements:
   
