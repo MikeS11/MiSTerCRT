@@ -57,6 +57,7 @@
 | 1		 |     SG9212-ND		|	  CAP TRIMMER 5-25PF 25V SMD		   |   1.40000	|
 | 1		 |   XM4L-1542-132  | CONN D-SUB HD RCPT 15P R/A SLDR  | 4.47000 | 
 
+If you need jumpers, S9001-ND, CONN JUMPER SHORTING GOLD FLASH
 
 ### Prerequisites
 
