@@ -40,6 +40,8 @@ Wanted to add a open source option for getting S-Video / Composite out of a MiST
 You can use either power from the 5V VGA port (Through the IO Board jumper) or directly through USB. Make sure you only use one of those options.
 
 Also I've added a trim capacitor to tune the NTSC crystal if required. (I've noticed some cores tend to have some additional flicker that can be tuned to improve the image through a trim capacitor.
+  
+For settings in the ini file, make sure vga_scaler is off and you flip sync on green on the IO board to off as well. 
 
 ### Build Requirements:
   
