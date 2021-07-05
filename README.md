@@ -14,7 +14,7 @@
     <img src="Images/MiSTerCRT2.jpg?raw=true" alt="" width="534" height="394">
   </a>
   <a href="https://github.com/MikeS11/MiSTerCRT">
-    <img src="Images/MiSTerCRT3.jpg?raw=true" alt="" width="382" height="240">
+   <br> <img src="Images/MiSTerCRT3.jpg?raw=true" alt="" width="382" height="240">
   </a>
   <h3 align="center">MiSTerCRT - S-Video / Composite Adapter</h3>
 
