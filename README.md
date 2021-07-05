@@ -75,11 +75,6 @@ Project Link: [https://github.com/MikeS11/MiSTerCRT](https://github.com/MikeS11/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []() Eric Banker for the for the wonder work completed on his Arduino project. (a couple of his functions are referenced in this project) 
-* []()
-* []()
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
