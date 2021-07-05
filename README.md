@@ -37,6 +37,7 @@
 
 ### Build Requirements:
 |QUANTITY |	PART NUMBER	|	DESCRIPTION	| UNIT PRICE (Canadian)	|
+|  ------------- | ------------- | ------------- | 
 |1		 |     CP-2240-ND		|	CONN RCPT FMALE MINI DIN 4P SLDR	|  2.38000		|
 |1		 |     CP-1421-ND		|	CONN RCA JACK MONO 3.2MM R/A		  |  2.16000		|
 |1		 |     XC584CT-ND		|	CRYSTAL 3.579545MHZ 17PF SMD		  |  2.47000		|
