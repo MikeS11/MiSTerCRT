@@ -65,7 +65,9 @@ Also I've added a trim capacitor to tune the NTSC crystal if required. (I've not
 
 If you need jumpers, S9001-ND, CONN JUMPER SHORTING GOLD FLASH
 
-### Prerequisites
+  <a href="https://github.com/MikeS11/MiSTerCRT">
+   <br> <img src="Images/MiSTerCRT.jpg?raw=true" alt="" width="242" height="403">
+  </a>
 
 
 <p align="center">
