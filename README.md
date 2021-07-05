@@ -36,6 +36,7 @@
 ### Getting Started
 
 ### Build Requirements:
+  
 |QUANTITY |	PART NUMBER	|	DESCRIPTION	| UNIT PRICE (Canadian)	|
 |  ------------- | ------------- | ------------- | 
 |1		 |     CP-2240-ND		|	CONN RCPT FMALE MINI DIN 4P SLDR	|  2.38000		|
