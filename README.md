@@ -26,7 +26,6 @@
   * [Built With](#Build-Requirements)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Wand Configuration](#wand-configuration)  
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -39,22 +38,12 @@
 <img src="Images/MisterCRT2.jpg?raw=true" alt="Prototype" width="1069" height="787"></p>
 
 
-**Current Themes for the pack:**
-* []() Movie
-
-
 ### Getting Started
 
 ### Build Requirements:
-
  
-
-
 ### Prerequisites
 
-
-
-### Wand Configuration
 
 <p align="center">
 <img src="Images/MisterCRT.jpg?raw=true" alt=""></p>
