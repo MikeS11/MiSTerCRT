@@ -61,10 +61,10 @@ For settings in the ini file, make sure vga_scaler is off and you flip sync on g
 |1	|	13-RC2512FK-071MLCT-ND	|	RES SMD 1M OHM 1% 1W 2512	|	0.47300		|
 |5 | 399-1171-1-ND	| CAP CER 0.1UF 50V X7R 0805 | 0.11020	|
 |2 | 399-15693-1-ND| 		CAP CER 10UF 10V X7R 0805 | 0.85900		|  
-|1	|	311-4241-1-ND		|	CAP CER 62PF 50V NPO 0805		|0.14200		|
+|1	|	311-4241-1-ND		|	CAP CER 62PF 50V NPO 0805	(60PF is recommended if you can find it)|0.14200		|
 |1	|	720-VJ0805A470GXJPW1BCCT-ND	|CAP CER 47PF 16V C0G/NP0 0805	|	0.22600		|   
 |3	|	399-9744-1-ND		|	CAP TANT 220UF 20% 10V 2917	|	1.90000		|  
-| 1		 |     SG9212-ND		|	  CAP TRIMMER 5-25PF 25V SMD		   |   1.40000	|
+| 1		 |     SG9212-ND		|	  Optional - CAP TRIMMER 5-25PF 25V SMD (Recommended to fine tune NTSC signal)   |   1.40000	|
 | 1		 |   XM4L-1542-132  | CONN D-SUB HD RCPT 15P R/A SLDR  | 4.47000 | 
 
 If you need jumpers, S9001-ND, CONN JUMPER SHORTING GOLD FLASH
